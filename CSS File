@@ -1,0 +1,21 @@
+body
+{
+}
+
+#main-content {
+    margin: 10px;
+    color: #333;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
